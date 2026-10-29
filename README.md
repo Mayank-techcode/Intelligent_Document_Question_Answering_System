@@ -193,7 +193,7 @@ Then open the URL shown in the terminal (usually http://localhost:8501).
 
 ```
 ├── app.py              # Streamlit application (RAG pipeline + UI)
-├── requirements.txt    # Python dependencies
+├── LICENSE    
 ├── README.md           # Project documentation
 └── .gitignore
 ```
